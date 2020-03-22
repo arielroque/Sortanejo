@@ -27,6 +27,7 @@ int main()
 {
     int array[] = {10, 30, 20, 1};
     int len = sizeof(array) / sizeof(array[0]);
+
     selectionSort(array, len);
 
     for (int i = 0; i < len; i++)
