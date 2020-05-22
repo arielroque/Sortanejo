@@ -6,11 +6,11 @@ Sortings algorithms described and implemented from scratch in C++
 
 ## Sortings Algorithms
 
-- [Bubble Sort] (https://github.com/arielroque/Sortanejo/blob/developing/BubbleSort/bubbleSort.md)
-- [Selection Sort] (https://github.com/arielroque/Sortanejo/blob/developing/SelectionSort/selectionSort.md)
-- [Insertion Sort] (https://github.com/arielroque/Sortanejo/blob/developing/InsertionSort/insertionSort.md)
-- [Merge Sort] (https://github.com/arielroque/Sortanejo/blob/developing/Merge%20Sort/mergeSort.md)
-- [Quick Sort] (https://github.com/arielroque/Sortanejo/blob/developing/QuickSort/quickSort.md) 
+- [Bubble Sort](https://github.com/arielroque/Sortanejo/blob/developing/BubbleSort/bubbleSort.md)
+- [Selection Sort](https://github.com/arielroque/Sortanejo/blob/developing/SelectionSort/selectionSort.md)
+- [Insertion Sort](https://github.com/arielroque/Sortanejo/blob/developing/InsertionSort/insertionSort.md)
+- [Merge Sort](https://github.com/arielroque/Sortanejo/blob/developing/Merge%20Sort/mergeSort.md)
+- [Quick Sort](https://github.com/arielroque/Sortanejo/blob/developing/QuickSort/quickSort.md) 
 
 ## Basics Concepts 
 
