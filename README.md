@@ -6,12 +6,12 @@ Sortings algorithms described and implemented from scratch in Python
 
 ## :pushpin: Sortings Algorithms
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort 
-- Bucket Sort
+- [Bubble Sort](https://github.com/arielroque/Sortanejo/blob/developing/BubbleSort/bubbleSort.md)
+- [Selection Sort](https://github.com/arielroque/Sortanejo/blob/developing/SelectionSort/selectionSort.md)
+- [Insertion Sort](https://github.com/arielroque/Sortanejo/blob/developing/InsertionSort/insertionSort.md)
+- [Merge Sort](https://github.com/arielroque/Sortanejo/blob/developing/Merge%20Sort/mergeSort.md)
+- [Quick Sort](https://github.com/arielroque/Sortanejo/blob/developing/QuickSort/quickSort.md) 
+- [Bucket Sort]()
 
 ## :books: Basics Concepts 
 
