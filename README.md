@@ -2,17 +2,18 @@
 
 # Sortanejo
 
-Sortings algorithms described and implemented from scratch in C++
+Sortings algorithms described and implemented from scratch in Python
 
-## Sortings Algorithms
+## :pushpin: Sortings Algorithms
 
 - Bubble Sort
 - Selection Sort
--  Insertion Sort
--  Merge Sort
--  Quick Sort 
+- Insertion Sort
+- Merge Sort
+- Quick Sort 
+- Bucket Sort
 
-## Basics Concepts 
+## :books: Basics Concepts 
 
 ### Classification
  - #### Internal Sorting
@@ -32,7 +33,7 @@ Sortings algorithms described and implemented from scratch in C++
 ![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
 Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/)
      
-## Contributing
+## :rocket: Contributing
 
 Pull request are also welcome , please read  [CONTRIBUTING.md](https://github.com/Benardi/touvlo/blob/master/CONTRIBUTING.md)  for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -42,7 +43,6 @@ Pull request are also welcome , please read  [CONTRIBUTING.md](https://github.co
 
 ## Acknowledgments
 
-This project was built based on the work of
 
 
 
