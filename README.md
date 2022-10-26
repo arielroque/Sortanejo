@@ -25,24 +25,22 @@ Sortings algorithms described and implemented from scratch in Python
    - #### Unstable  
      The algorithm not necessarily  preserve the order of the elements with same keys when is executing the sorting. therefore, two equals elements can appear with different order. **Ex:** Merge Sort and Quick Sort
 
-![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
-Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/)
-     
+
 ## :rocket: Contributing
 
-Did you like the repository and want to contribute? Let's go, pull requests are always welcome
+Did you like the repository and want to contribute? Let's go, pull requests are always welcome :tada:
 
 ### Steps 
 
 1.  Fork the repository
 
-2.  Create a branch locally with a succinct but descriptive name
+2.  Create a branch locally
 
-3.  Choose a sorting algorithm that is not already in the repository (check the section )
+3.  Choose a sorting algorithm that is not already in the repository (check the section [sorting algorithms](#pushpin-sortings-algorithms) and the [pull requests](https://github.com/arielroque/Sortanejo/tree/master/bubble_sort))
 
-4.  Copy the template folder and replace it with the name of the desired algorithm (use snake case. ex: bubble_sort)
+4.  Copy the TEMPLATE folder and replace it with the name of the desired algorithm (use snake case. ex: bubble_sort)
 
-5.  Update the README file in the template folder you copied with information about the sorting algorithm chosen.
+5.  Update the README file in the template folder you copied with information about the sorting algorithm chosen. Here you will add the name of the algorithm, a short description, how it works and its complexity. If you have any doubts, just take a look at [Bubble Sort](https://github.com/arielroque/Sortanejo/tree/master/bubble_sort)
 
 6.  Replace the ALGORITHM_NAME.py file from the folder copied from the template with the name of the chosen algorithm and add implementation in code using the Python language
 
