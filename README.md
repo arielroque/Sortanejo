@@ -2,17 +2,13 @@
 
 # Sortanejo
 
-Sortings algorithms described and implemented from scratch in C++
+Sortings algorithms described and implemented from scratch in Python
 
-## Sortings Algorithms
+## :pushpin: Sortings Algorithms
 
-- Bubble Sort
-- Selection Sort
--  Insertion Sort
--  Merge Sort
--  Quick Sort 
+- [Bubble Sort](https://github.com/arielroque/Sortanejo/blob/master/bubble_sort/README.md)
 
-## Basics Concepts 
+## :books: Basics Concepts 
 
 ### Classification
  - #### Internal Sorting
@@ -29,10 +25,10 @@ Sortings algorithms described and implemented from scratch in C++
    - #### Unstable  
      The algorithm not necessarily  preserve the order of the elements with same keys when is executing the sorting. therefore, two equals elements can appear with different order. **Ex:** Merge Sort and Quick Sort
 
-![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
-Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/)
+<!-- ![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
+Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/) -->
      
-## Contributing
+## :rocket: Contributing
 
 Pull request are also welcome , please read  [CONTRIBUTING.md](https://github.com/Benardi/touvlo/blob/master/CONTRIBUTING.md)  for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -40,9 +36,7 @@ Pull request are also welcome , please read  [CONTRIBUTING.md](https://github.co
     
 -   Check  [issue templates](https://github.com/Benardi/touvlo/issues/new/choose)  for the suggested issue formats
 
-## Acknowledgments
 
-This project was built based on the work of
 
 
 
