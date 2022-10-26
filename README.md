@@ -25,16 +25,28 @@ Sortings algorithms described and implemented from scratch in Python
    - #### Unstable  
      The algorithm not necessarily  preserve the order of the elements with same keys when is executing the sorting. therefore, two equals elements can appear with different order. **Ex:** Merge Sort and Quick Sort
 
-<!-- ![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
-Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/) -->
+![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
+Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/)
      
 ## :rocket: Contributing
 
-Pull request are also welcome , please read  [CONTRIBUTING.md](https://github.com/Benardi/touvlo/blob/master/CONTRIBUTING.md)  for details on our code of conduct, and the process for submitting pull requests to us.
+Did you like the repository and want to contribute? Let's go, pull requests are always welcome
 
--   Check  [pull_request_template.md](https://github.com/Benardi/touvlo/blob/master/pull_request_template.md)  for the expected format of a pull request
-    
--   Check  [issue templates](https://github.com/Benardi/touvlo/issues/new/choose)  for the suggested issue formats
+### Steps 
+
+1.  Fork the repository
+
+2.  Create a branch locally with a succinct but descriptive name
+
+3.  Choose a sorting algorithm that is not already in the repository (check the section )
+
+4.  Copy the template folder and replace it with the name of the desired algorithm (use snake case. ex: bubble_sort)
+
+5.  Update the README file in the template folder you copied with information about the sorting algorithm chosen.
+
+6.  Replace the ALGORITHM_NAME.py file from the folder copied from the template with the name of the chosen algorithm and add implementation in code using the Python language
+
+7. Open a pull request 
 
 
 
