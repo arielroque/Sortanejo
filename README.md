@@ -25,8 +25,8 @@ Sortings algorithms described and implemented from scratch in Python
    - #### Unstable  
      The algorithm not necessarily  preserve the order of the elements with same keys when is executing the sorting. therefore, two equals elements can appear with different order. **Ex:** Merge Sort and Quick Sort
 
-![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
-Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/)
+<!-- ![](https://www.csitquestions.com/wp-content/uploads/2016/10/stable-unstable-sort-example.png)
+Photo by [https://www.csitquestions.com/](https://www.csitquestions.com/) -->
      
 ## :rocket: Contributing
 
