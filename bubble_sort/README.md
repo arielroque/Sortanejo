@@ -11,13 +11,13 @@
 ![fdfd](https://he-s3.s3.amazonaws.com/media/uploads/2682167.png)
 Font: [https://www.hackerearth.com/](https://www.hackerearth.com/)
 
-## Pros x Against
+## Pros x Cons
 
 ### Pros
  - Simple Implementation
  - This algorithm don't require extra memory
 
- ### Against
+ ### Cons
  - The average time is quadratic(n²) what means that is very slow to sorting registers
  - Bad results when the array have many items because needs O(n²) steps for each n element to sorting
 - Indicated for academic purposes, but not feasible for real case applications

@@ -1,28 +1,23 @@
 
-# Bubble Sort
-  Bubble Sort is the most simple sorting algorithm to implement.
+# <ALGORITHM NAME>
+<Small description> 
 
 ## Operation
+<How it work?>
 
-  - Compare adjacent pair values  and change if you are in a wrong place
-  - Moves one position at a time, the highest value in the unclassified portion of an array to the correct position
-  - Repeat this process until all of it is sorted
+## Pros x Cons
 
-![fdfd](https://he-s3.s3.amazonaws.com/media/uploads/2682167.png)
-Font: [https://www.hackerearth.com/](https://www.hackerearth.com/)
-
-## Pros x Against
+<Describe strengths and weaknesses of this algorithm>
 
 ### Pros
- - Simple Implementation
- - This algorithm don't require extra memory
+ - <Positive point 1>
+ - <Positive point 2>
 
- ### Against
- - The average time is quadratic(n²) what means that is very slow to sorting registers
- - Bad results when the array have many items because needs O(n²) steps for each n element to sorting
-- Indicated for academic purposes, but not feasible for real case applications
+### Cons
+ - <Negative point 1>
+ - <Negative point 2>
 
 ## Complexity
 | Sorting Algorithm |Best Time| Average Time | Best Time
 |----------|:-------------:|------:|------:|
-| BubbleSort|  O(n) | O(n²)|O(n²)
+| <ALGORITHM NAME>|  <BEST TIME COMPLEXITY> |  <AVERAGE TIME COMPLEXITY>)| <BEST TIME COMPLEIXTY>
